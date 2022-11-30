@@ -1,7 +1,6 @@
-### Hi there 👋
 
 
-# Hi, I’m Dilrabo ![small dev](https://user-images.githubusercontent.com/96412090/186644372-cb8a833d-63e7-40c5-8dac-8921c8ba6c2c.png)
+# Hi 👋, I’m Dilrabo ![small dev](http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/woman-technologist.png)
 
 - :earth_asia: I'm from Uzbekistan
 
