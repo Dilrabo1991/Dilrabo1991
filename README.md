@@ -28,9 +28,8 @@ pie
 ```
 
 Contact:
-[**` Facebook `**](https://facebook.com/holmonalp) **|**
-[**` Twitter `**](https://twitter.com/holmonalp)   **|**
-[**` LinkedIn `**](https://linkedin.com/holmonalp) **|**
+<a href="https://instagram.com/dilrabo_doniyorovna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+[**` LinkedIn `**](https://www.linkedin.com/in/dilrabo-doniyorova-5796a4243/) **|**
 [**` Telegram `**](https://t.me/Didi_Gold) **|**
 [**`Telefon`**](tel:+998996066568)
 
