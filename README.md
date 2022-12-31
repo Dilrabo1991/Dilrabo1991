@@ -13,18 +13,19 @@
 - :incoming_envelope: if you want [`my email`](mailto:dilraboxujamuratova@gmail.com)
 
 
-![Mirjamol's github stats](https://github-readme-stats.vercel.app/api?username=Dilrabo1991&theme=merko&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Dilrabo1991&theme=merko&show_icons=true)
 
 ## My case of using programming languages below
 
 ```mermaid
 pie
     title Programming languages
-    "JavaScript (html, css)" : 85
+    "JavaScript (html, css,React.Js, Next.Js)" :150
     "SQL (PostgeSQL)" : 70
-    "Basicly learning Java" : 70
-    "Python" : 150
     "C (for qwasar projects)" : 180
+    "Ruby ( Rails)" :50
+    "PHP(Laravel)" :50
+    
 ```
 
 Contact:
