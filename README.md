@@ -40,7 +40,7 @@ Dilrabo1991/About-Me is a ✨ special ✨ repository because its `README.md` (th
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%" style="max-width: 100%;">
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/soburjon19/soburjon19/master/snake.svg)
 
 
 <!--
