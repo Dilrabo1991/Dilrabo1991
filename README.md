@@ -1,5 +1,4 @@
 
-
 # Hi 👋, I’m Dilrabo ![small dev](http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/woman-technologist.png)
 
 - :earth_asia: I'm from Uzbekistan
