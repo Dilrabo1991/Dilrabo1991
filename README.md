@@ -1,5 +1,10 @@
 
-# Hi 👋, I’m Dilrabo ![small dev](http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/woman-technologist.png)
+<h1 align="center"> # Hi 👋, I’m Dilrabo👩🏻‍💻 </h1>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Dilrabo1991/count.svg" />
+</p>
+<!-- ![small dev](http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/woman-technologist.png) -->
 
 - :earth_asia: I'm from Uzbekistan
 
@@ -11,33 +16,14 @@
 
 - :incoming_envelope: if you want [`my email`](mailto:dilraboxujamuratova@gmail.com)
 
+| 📊 Most Used Language | 🖥 My Github Stats | 📈 Current Streak |
+| :------------------------- | :------------------------- | :------------------------- |
+| <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dilrabo1991&theme=merko&show_icons=true" alt="Dilrabo1991" /></p> | <p>&nbsp;<img align="center" style="background-black" src="https://github-readme-stats.vercel.app/api?username=Dilrabo1991&theme=merko&show_icons=true" alt="Dilrabo1991" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilrabo1991&theme=merko&show_icons=true" alt="Dilrabo1991" /></p> |
 
-![](https://github-readme-stats.vercel.app/api?username=Dilrabo1991&theme=merko&show_icons=true)
-
-## My case of using programming languages below
-
-```mermaid
-pie
-    title Programming languages
-    "JavaScript (html, css,React.Js, Next.Js)" :150
-    "SQL (PostgeSQL)" : 70
-    "C (for qwasar projects)" : 180
-    "Ruby ( Rails)" :50
-    "PHP(Laravel)" :50
-    
-```
-
-Contact:
-<a href="https://instagram.com/dilrabo_doniyorovna" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> **|**
-<a href="https://www.linkedin.com/in/dilrabo-doniyorova-5796a4243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> **|**
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a> **|**
-<a href="https://discord.com/channels/Dilrabo#3189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
-
-<!---
-![developer](https://user-images.githubusercontent.com/96412090/186638132-ffbce524-8e8b-49ab-8d1b-9144b46dcb3e.png)
-Dilrabo1991/About-Me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contact:
+| Instagram | Linkedin | FaceBook | Discode |
+| :----- | :----- | :----- | :----- |
+|<p><a href="https://instagram.com/dilrabo_doniyorovna" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a></p> | <p><a href="https://www.linkedin.com/in/dilrabo-doniyorova-5796a4243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> </p> | <p><a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a> </p> | <p><a href="https://discord.com/channels/Dilrabo#3189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a> </p>|
 
 ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/soburjon19/soburjon19/master/snake.svg)
 
