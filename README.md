@@ -9,7 +9,7 @@
 - :earth_asia: I'm from Uzbekistan
 
 - :information_desk_person: I'm student at [Qwasar Silicon Valley](https://qwasar.io/), 'FullStack Development' track
-   
+- :information_desk_person: I'm student at [Udevs IT Academy], 'Frontend Development' track 
 - :jigsaw: Languages: Uzbek, English(Intermediate), Russian
 
 - :mountain_biking_man: My hobbies is Sport, watching Movies and Traveling
