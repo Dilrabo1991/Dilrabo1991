@@ -4,7 +4,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Dilrabo1991/count.svg" />
 </p>
-<!-- ![small dev](http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/woman-technologist.png) -->
+<!-- ![small dev](http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/woman-technologist.png) eee -->
 
 - :earth_asia: I'm from Uzbekistan
 
